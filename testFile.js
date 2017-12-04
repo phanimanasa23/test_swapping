@@ -1,5 +1,5 @@
 this is to test git commands
-testing ............
+testing ......new line here......
 
 
 modifying file in master folder
